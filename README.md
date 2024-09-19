@@ -59,6 +59,12 @@ Install the following Python packages:
 - **vaderSentiment**: For sentiment analysis.
 - **requests**: To download additional resources (NRC Emotion Lexicon).
 
+
+Also install (can find all of these in the respective website 1-2.NRC website, 3 go to the github repo and find the file for the latest version: NRC-Emotion-Lexicon-Senselevel-v0.92
+NRC-Emotion-Lexicon-Wordlevel-v0.92
+en_core_web_trf-3.7.3-py3-none-any.whl
+
+
 ### 4. Download Necessary NLTK Data
 
 Ensure that the necessary NLTK data, such as stopwords and the Punkt tokenizer, is downloaded:
